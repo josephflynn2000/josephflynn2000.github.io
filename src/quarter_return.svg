@@ -66,21 +66,23 @@
 <rect x='409.60' y='257.07' width='41.73' height='21.07' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
 <rect x='451.33' y='269.71' width='41.73' height='8.43' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
 <rect x='167.55' y='273.92' width='16.69' height='4.21' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='184.24' y='273.92' width='16.69' height='4.21' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='200.93' y='248.64' width='16.69' height='29.49' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='184.24' y='265.49' width='16.69' height='12.64' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='200.93' y='265.49' width='16.69' height='12.64' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
 <rect x='217.63' y='219.15' width='16.69' height='58.99' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='234.32' y='155.95' width='16.69' height='122.19' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='251.01' y='67.47' width='16.69' height='210.67' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='267.71' y='4.27' width='16.69' height='273.87' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='284.40' y='-58.93' width='16.69' height='337.07' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='301.09' y='-113.71' width='16.69' height='391.84' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='317.79' y='-16.80' width='16.69' height='294.93' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='334.48' y='101.17' width='16.69' height='176.96' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='351.17' y='214.93' width='16.69' height='63.20' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='367.87' y='244.43' width='16.69' height='33.71' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='234.32' y='139.09' width='16.69' height='139.04' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='251.01' y='4.27' width='16.69' height='273.87' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='267.71' y='-21.01' width='16.69' height='299.15' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='284.40' y='-92.64' width='16.69' height='370.77' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='301.09' y='-46.29' width='16.69' height='324.43' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='317.79' y='25.33' width='16.69' height='252.80' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='334.48' y='126.45' width='16.69' height='151.68' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='351.17' y='193.87' width='16.69' height='84.27' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='367.87' y='252.85' width='16.69' height='25.28' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
 <rect x='384.56' y='269.71' width='16.69' height='8.43' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='401.25' y='273.92' width='16.69' height='4.21' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='417.95' y='278.13' width='16.69' height='0.00' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='434.64' y='273.92' width='16.69' height='4.21' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='68.05' y='63.59' width='69.04' height='34.56' style='stroke-width: 0.75; fill: #FFFFFF;' />
+<rect x='76.69' y='72.23' width='6.91' height='5.76' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
+<rect x='76.69' y='83.75' width='6.91' height='5.76' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<text x='92.25' y='78.55' style='font-size: 9.60px; font-family: "Arial";' textLength='26.66px' lengthAdjust='spacingAndGlyphs'>Actual</text>
+<text x='92.25' y='90.07' style='font-size: 9.60px; font-family: "Arial";' textLength='40.53px' lengthAdjust='spacingAndGlyphs'>Predicted</text>
 </g>
 </svg>

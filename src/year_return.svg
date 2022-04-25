@@ -55,13 +55,14 @@
 <rect x='180.07' y='196.21' width='104.33' height='81.93' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
 <rect x='284.40' y='67.47' width='104.33' height='210.67' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
 <rect x='388.73' y='137.69' width='104.33' height='140.44' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
-<rect x='127.90' y='254.73' width='52.17' height='23.41' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='180.07' y='266.43' width='52.17' height='11.70' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='232.23' y='231.32' width='52.17' height='46.81' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='284.40' y='172.80' width='52.17' height='105.33' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='336.57' y='125.99' width='52.17' height='152.15' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='388.73' y='184.50' width='52.17' height='93.63' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='440.90' y='278.13' width='52.17' height='0.00' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='493.07' y='254.73' width='52.17' height='23.41' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='75.73' y='266.43' width='104.33' height='11.70' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='180.07' y='161.10' width='104.33' height='117.04' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='284.40' y='67.47' width='104.33' height='210.67' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='388.73' y='161.10' width='104.33' height='117.04' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='68.05' y='63.59' width='69.04' height='34.56' style='stroke-width: 0.75; fill: #FFFFFF;' />
+<rect x='76.69' y='72.23' width='6.91' height='5.76' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
+<rect x='76.69' y='83.75' width='6.91' height='5.76' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<text x='92.25' y='78.55' style='font-size: 9.60px; font-family: "Arial";' textLength='26.66px' lengthAdjust='spacingAndGlyphs'>Actual</text>
+<text x='92.25' y='90.07' style='font-size: 9.60px; font-family: "Arial";' textLength='40.53px' lengthAdjust='spacingAndGlyphs'>Predicted</text>
 </g>
 </svg>

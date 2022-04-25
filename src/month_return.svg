@@ -81,19 +81,23 @@
 <rect x='423.51' y='260.43' width='23.19' height='17.70' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
 <rect x='446.70' y='267.51' width='23.19' height='10.62' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
 <rect x='469.88' y='274.59' width='23.19' height='3.54' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
-<rect x='168.47' y='272.82' width='23.19' height='5.31' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='191.66' y='278.13' width='23.19' height='0.00' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='168.47' y='274.59' width='23.19' height='3.54' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='191.66' y='276.36' width='23.19' height='1.77' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
 <rect x='214.84' y='263.97' width='23.19' height='14.16' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='238.03' y='244.50' width='23.19' height='33.64' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='261.21' y='226.79' width='23.19' height='51.34' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='284.40' y='184.31' width='23.19' height='93.83' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='307.59' y='141.82' width='23.19' height='136.31' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='330.77' y='115.26' width='23.19' height='162.87' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='353.96' y='132.97' width='23.19' height='145.17' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='377.14' y='194.93' width='23.19' height='83.20' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='400.33' y='214.40' width='23.19' height='63.73' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='423.51' y='242.73' width='23.19' height='35.41' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='446.70' y='262.20' width='23.19' height='15.93' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
-<rect x='469.88' y='271.05' width='23.19' height='7.08' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='238.03' y='256.89' width='23.19' height='21.24' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='261.21' y='203.78' width='23.19' height='74.35' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='284.40' y='186.08' width='23.19' height='92.06' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='307.59' y='122.35' width='23.19' height='155.79' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='330.77' y='134.74' width='23.19' height='143.39' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='353.96' y='154.21' width='23.19' height='123.92' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='377.14' y='159.52' width='23.19' height='118.61' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='400.33' y='210.86' width='23.19' height='67.27' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='423.51' y='256.89' width='23.19' height='21.24' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='446.70' y='267.51' width='23.19' height='10.62' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<rect x='68.05' y='63.59' width='69.04' height='34.56' style='stroke-width: 0.75; fill: #FFFFFF;' />
+<rect x='76.69' y='72.23' width='6.91' height='5.76' style='stroke-width: 0.75; fill: #FF0000; fill-opacity: 0.25;' />
+<rect x='76.69' y='83.75' width='6.91' height='5.76' style='stroke-width: 0.75; fill: #0000FF; fill-opacity: 0.25;' />
+<text x='92.25' y='78.55' style='font-size: 9.60px; font-family: "Arial";' textLength='26.66px' lengthAdjust='spacingAndGlyphs'>Actual</text>
+<text x='92.25' y='90.07' style='font-size: 9.60px; font-family: "Arial";' textLength='40.53px' lengthAdjust='spacingAndGlyphs'>Predicted</text>
 </g>
 </svg>
