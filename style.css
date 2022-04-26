@@ -1,10 +1,10 @@
 body {
     background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
   
 h1 {
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
@@ -17,10 +17,13 @@ img{
     width: 100%;
     justify-content: center;
     height: auto;
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .box div{
     width: 50%;
+}
+
+p{
+    font-size: 4vh;
+    font-size: 2vw;
 }
