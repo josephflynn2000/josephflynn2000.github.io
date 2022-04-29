@@ -378,6 +378,6 @@
 <circle cx='584.75' cy='258.84' r='1.95' style='stroke-width: 0.71; stroke: #FFA500; fill: #FFA500;' />
 <text x='598.87' y='244.72' style='font-size: 8.80px; font-family: "Arial";' textLength='34.24px' lengthAdjust='spacingAndGlyphs'>Adjusted</text>
 <text x='598.87' y='262.00' style='font-size: 8.80px; font-family: "Arial";' textLength='37.17px' lengthAdjust='spacingAndGlyphs'>Predicted</text>
-<text x='305.03' y='14.94' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='163.50px' lengthAdjust='spacingAndGlyphs'>Stock Price from 2012-2022</text>
+<text x='305.03' y='14.94' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='240.49px' lengthAdjust='spacingAndGlyphs'>S&amp;P 500 Quarterly Price from 1982-2022</text>
 </g>
 </svg>
