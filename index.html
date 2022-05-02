@@ -29,41 +29,18 @@
                     <img src = "src/daily_return.svg" alt = "Daily Returns">
                 </div>
             </div>
-            <div class="box">
-                <div>
-                    <p>
-                        Even though the mean daily return is small, when compounded daily, the price ends up around $8,000. However, the actual price is much less due to returns not having a constant rate of return and negative returns having a much stronger effect on the price.
-                    </p>
-                    <p>For instance: A stock has a return of r but then a return of -r</p>
-                    <p><i>
-                        p*(1+r)*(1-r) = p*(1-r<sup>2</sup>)
-                    </i></p>
-                </div>
-                <div>
-                    <img src = "src/daily_pred.svg" alt = "Daily Predicted">
-                </div>
-            </div>
 
             <h2>Weekly Returns:</h2>
 
             <div class="box">
                 <div>
                     <p>
-                        Weekly Returns.
+                        The distribution is fitting better, but still under estimates center by a bit. 
+                        A normal distribution is an okay fit.
                     </p>
                 </div>
                 <div>
                     <img src = "src/week_return.svg" alt = "Weekly Returns">
-                </div>
-            </div>
-            <div class = "box">
-                <div>
-                    <p>
-
-                    </p>
-                </div>
-                <div>
-                    <img src = "src/weekly_pred.svg" alt = "Weekly Predicted">
                 </div>
             </div>
 
@@ -72,21 +49,12 @@
             <div class="box">
                 <div>
                     <p>
-                        Monthly Returns.
+                        The normal distribution seems to fit pretty well, but the number of observations does decrease. 
+                        As time period increase, the distributions seem to get flatter and flatter.
                     </p>
                 </div>
                 <div>
                     <img src = "src/month_return.svg" alt = "Monthly Returns">
-                </div>
-            </div>
-            <div class="box">
-                <div>
-                    <p>
-                        Monthly Returns.
-                    </p>
-                </div>
-                <div>
-                    <img src = "src/monthly_pred.svg" alt>
                 </div>
             </div>
 
@@ -95,22 +63,12 @@
             <div class="box">
                 <div>
                     <p>
-                        Quarterly Returns.
+                        Now the center seems to be overrepresented. However, there is the added problem of decreasing observations. Making predictions increasingly inaccurate.
                     </p>
                 </div>
                 <div>
                     <img src = "src/quarter_return.svg" alt = "Quarterly Returns">
                     
-                </div>
-            </div>
-            <div class="box">
-                <div>
-                    <p>
-                        Quarterly Returns.
-                    </p>
-                </div>
-                <div>
-                    <img src = "src/quarterly_pred.svg" alt = "Quarterly Predicted">
                 </div>
             </div>
 
@@ -119,23 +77,41 @@
             <div class="box">
                 <div>
                     <p>
-                        Yearly Returns.
+                        This is truly where the number of points becomes too small. To get a clearer picture, a basket of individual stocks should be used to increase the number of observations. An index of stocks will not provide enough points to be sufficient in this case.
                     </p>
                 </div>
                 <div>
                     <img src = "src/year_return.svg" alt = "Yearly Returns">
                 </div>
             </div>
-            <div class="box">
-                <div>
-                    <p>
-                        Yearly Returns.
-                    </p>
-                </div>
-                <div>
-                    <img src = "src/yearly_pred.svg" alt = "Yearly Predicted">
-                </div>
-            </div>
 
+            <h1>Comparing Average Returns</h1>
+
+            <p>
+                Even though the mean returns are different, when compounded for the same time period, the price ends up around $8,000 and each curve having a similar shape. It can be implied that each time period comes from the same source. 
+            </p>
+            <p>
+                However, the actual price is much less than the actual price due to returns not having a constant rate of return and negative returns having a much stronger effect on the price.
+                For instance: A stock has a return of r but then a return of -r
+            </p>
+            <p><i>
+                p*(1+r)*(1-r) = p*(1-r<sup>2</sup>)
+            </i></p>
+            
+            <div class="image">
+                    <img src = "src/daily_pred.svg" alt = "Daily Predicted">
+                    <img src = "src/weekly_pred.svg" alt = "Weekly Predicted">
+                    <img src = "src/monthly_pred.svg" alt>
+                    <img src = "src/quarterly_pred.svg" alt = "Quarterly Predicted">
+                    <img src = "src/yearly_pred.svg" alt = "Yearly Predicted">
+            </div>
+            <p>
+                Further investigation: Due to stock price exhibit Brownian Motion, a Dirac Delta Function may better represent stock returns.
+                There is also a positive drift with the mean return as time period increases.
+                <br>
+                Link to article on Dirac Distribution: https://en.wikipedia.org/wiki/Dirac_delta_function
+                <br>
+                Link to paper on using Dirac Distribution: https://www.diva-portal.org/smash/get/diva2:942736/FULLTEXT01.pdf
+            </p>
         </body>
     </html>
